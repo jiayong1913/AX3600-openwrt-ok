@@ -1,2 +1,2 @@
-# AX3600-openwrt-ok
-AX3600-openwrt-test--ok
+# openwrt-fireware-build
+build for xiaomi ax3600 without WIFI
